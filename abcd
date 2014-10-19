@@ -5,3 +5,6 @@ biswajit
 test file
 
 modif- ransingh
+
+def fun(x):
+	return x^3
