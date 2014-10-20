@@ -1,4 +1,2 @@
-hi i am in devel dmfj done
-
-bye
-
+def fun(x):
+    return (x^4)		
