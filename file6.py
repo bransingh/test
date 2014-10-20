@@ -1,2 +1,3 @@
 def fun(x):
-    return x^4	
+    return x^6
+	
