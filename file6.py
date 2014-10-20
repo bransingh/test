@@ -1,2 +1,4 @@
 def fun(x):
-    return x^34	
+
+    return x^37	
+

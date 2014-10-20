@@ -1,2 +1,7 @@
 def fun(x):
-    return x^2	
+<<<<<<< HEAD
+    return x^34	
+=======
+    return x^6
+	
+>>>>>>> 4591b6ffcb05889898f94db7220663dd94f5be4a
